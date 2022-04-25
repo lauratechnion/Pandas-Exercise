@@ -1,7 +1,5 @@
-echo "# Pandas-Exercise" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/lauratechnion/Pandas-Exercise.git
-git push -u origin main
+# Pandas Exercise with Solution
+What are you gonna find in this repository?
+- Notebook (code for this project)
+- PDF of the Notebook
+- data folder
